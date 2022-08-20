@@ -1,2 +1,2 @@
 # Programowanie-www
-Projekty wykonane zarówno samodzielne jak i przy pomocy kursów czy innych tutoriali. HTML, CSS, JavaScript, React
+Projekty wykonane samodzielnie oraz z pomcą kursów i tutoriali. HTML, CSS, JavaScript, React
